@@ -1,0 +1,8 @@
+FRONTEND.rar
+backend.zip
+*.zip
+*.log
+*.err.log
+serve.out.log
+serve.err.log
+mysql_create.err
