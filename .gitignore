@@ -6,3 +6,5 @@ backend.zip
 serve.out.log
 serve.err.log
 mysql_create.err
+hosting-deploy-*/
+hosting-root-deploy-*/
