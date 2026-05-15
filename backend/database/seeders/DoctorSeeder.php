@@ -15,7 +15,7 @@ class DoctorSeeder extends Seeder
     public function run(): void
     {
         $doctorNames = [
-            'Poli Umum' => ['Dr. Andi Wijaya', 'Dr. Siti Nurhaliza'],
+            'Poli Umum' => ['Dr. Andi Wijaya','Dr. Yani Surani', 'Dr. Siti Nurhaliza'],
             'Poli Gigi' => ['Dr. Dwi Prasetyo', 'Dr. Laila Ramadhani'],
             'Poli Lansia' => ['Dr. Bambang Suryanto', 'Dr. Nita Wijaya'],
             'Poli Balita' => ['Dr. Intan Permata', 'Dr. Yoga Santoso'],

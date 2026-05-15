@@ -26,8 +26,8 @@ const LOCAL_DOCTORS = [
 ];
 
 const LOCAL_ROOMS = [
-  { id: 1, clinic_id: 1, name: "Ruang Pemeriksaan Umum 1", status: "ACTIVE" },
-  { id: 2, clinic_id: 1, name: "Ruang Pemeriksaan Umum 2", status: "ACTIVE" },
+  { id: 1, clinic_id: 1, name: "Ruang Poli Umum 1", status: "ACTIVE" },
+  { id: 2, clinic_id: 1, name: "Ruang Poli Umum 2", status: "ACTIVE" },
   { id: 3, clinic_id: 2, name: "Ruang Perawatan Gigi 1", status: "ACTIVE" },
   { id: 4, clinic_id: 2, name: "Ruang Perawatan Gigi 2", status: "ACTIVE" },
   { id: 5, clinic_id: 3, name: "Ruang Pemeriksaan Lansia 1", status: "ACTIVE" },
