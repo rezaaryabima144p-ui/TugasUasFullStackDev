@@ -13,7 +13,7 @@ use App\Models\TicketStatusHistory;
 use App\Models\Patient;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Facades\Str;
+use Illuminate\Support\Str;
 
 class TicketController extends Controller
 {
